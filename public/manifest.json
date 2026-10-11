@@ -1,0 +1,25 @@
+{
+  "name": "زندگیتو: نسخه",
+  "short_name": "نسخه",
+  "id": "ir.zendegito.noskhe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#1a1817",
+  "description": "نسخه امروز من - پلتفرم هوش شخصی زندگی و سلامت",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/brand/noskhe-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/brand/noskhe-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}

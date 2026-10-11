@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Vazirmatn', system-ui, sans-serif;
+  
+  /* Warm neutral palette for Modern Persian Minimalism */
+  --color-surface-50: #faf9f6; /* Off-white parchment */
+  --color-surface-100: #f2efe9;
+  --color-surface-200: #e6e1d6;
+  --color-surface-300: #d4ccbd;
+  --color-surface-400: #b8ac99;
+  
+  /* Charcoal Primary - Deep earthy tones */
+  --color-primary-900: #1a1817; /* Deep charcoal */
+  --color-primary-800: #2d2a27;
+  --color-primary-700: #4a4540;
+  --color-primary-600: #5c554d;
+  --color-primary-500: #8b8276;
+  --color-primary-100: #e3dfd8;
+  --color-primary-50: #f4f2ef;
+
+  /* Natural Accents */
+  --color-accent-terracotta: #b86b52;
+  --color-accent-terracotta-light: #f6e8e3;
+  --color-accent-green: #6b8067;
+  --color-accent-green-light: #e7ece6;
+
+  /* Card and overlay layers */
+  --color-card: #ffffff;
+  --color-card-foreground: #1a1817;
+}
+
+@layer utilities {
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom, 1.5rem);
+  }
+  .pt-safe {
+    padding-top: env(safe-area-inset-top, 1.5rem);
+  }
+}
+
+@layer base {
+  html, body {
+    @apply bg-surface-50 text-primary-900 font-sans antialiased selection:bg-primary-100 selection:text-primary-900;
+    /* Prevent pull-to-refresh on mobile for a native app feel */
+    overscroll-behavior-y: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+}

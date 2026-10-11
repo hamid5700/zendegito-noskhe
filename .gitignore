@@ -1,0 +1,28 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Keystore & signing files (NEVER commit these!)
+*.jks
+*.keystore
+keystore.base64.txt
+*.base64.txt
+
+# Android build outputs
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# Capacitor generated
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+# Password files (NEVER commit!)
+zendegito-keystore-pass.txt
+*-pass.txt
+*-password.txt
+*.pass

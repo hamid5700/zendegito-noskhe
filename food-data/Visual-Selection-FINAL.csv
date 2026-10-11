@@ -1,0 +1,627 @@
+food_id,name_fa,visual_priority,visual_type
+IR-KHORESH-001,قورمه سبزی,A,dedicated
+IR-KHORESH-002,قیمه,A,dedicated
+IR-KHORESH-003,قیمه بادمجان,B,generic
+IR-KHORESH-004,خورش فسنجان,A,dedicated
+IR-KHORESH-005,خورش کرفس,B,generic
+IR-KHORESH-006,خورش بادمجان,B,generic
+IR-KHORESH-007,خورش لوبیا,B,generic
+IR-KHORESH-008,خورش کدو,B,generic
+IR-KHORESH-009,خورش آلو اسفناج,B,generic
+IR-KHORESH-010,خورش هویج,C,generic
+IR-KHORESH-011,خورش به,B,generic
+IR-KHORESH-012,خورش ریواس,C,generic
+IR-KHORESH-013,خورش کنگر,C,generic
+IR-KHORESH-014,خورش غوره,C,generic
+IR-KHORESH-015,خورش سیب,C,generic
+IR-KHORESH-016,خورش انار,C,generic
+IR-KHORESH-017,خورش نعنا,C,generic
+IR-KHORESH-018,خورش بامیه,B,generic
+IR-KHORESH-019,خورش تره,C,generic
+IR-KHORESH-020,خورش کلم,C,generic
+IR-KHORESH-021,خورش شوید,C,generic
+IR-KHORESH-022,خورش چغندر,C,generic
+IR-KHORESH-023,خورش آلو,B,generic
+IR-KHORESH-024,خورش قارچ,B,generic
+IR-KHORESH-025,خورش لپه,C,generic
+IR-KHORESH-026,خورش نخود,C,generic
+IR-KHORESH-027,خورش باقلا,C,generic
+IR-KHORESH-028,خورش آلوچه,C,generic
+IR-KHORESH-029,خورش هلو,C,generic
+IR-KHORESH-030,خورش زردآلو,C,generic
+IR-RICE-001,چلو,A,dedicated
+IR-RICE-002,چلو مرغ,A,dedicated
+IR-RICE-003,زرشک پلو با مرغ,A,dedicated
+IR-RICE-004,باقالی پلو با مرغ,A,dedicated
+IR-RICE-005,لوبیا پلو,A,dedicated
+IR-RICE-006,عدس پلو,B,generic
+IR-RICE-007,هویج پلو,B,generic
+IR-RICE-008,شیرین پلو,B,generic
+IR-RICE-009,ته چین مرغ,A,dedicated
+IR-RICE-010,ته چین گوشت,B,generic
+IR-RICE-011,کلم پلو,B,generic
+IR-RICE-012,سبزی پلو با ماهی,A,dedicated
+IR-RICE-013,قیسی پلو,C,generic
+IR-RICE-014,آلبالو پلو,B,generic
+IR-RICE-015,گیلاس پلو,C,generic
+IR-RICE-016,نارنج پلو,C,generic
+IR-RICE-017,کدو پلو,C,generic
+IR-RICE-018,ماش پلو,B,generic
+IR-RICE-019,نخود پلو,C,generic
+IR-RICE-020,شوید پلو,B,generic
+IR-RICE-021,دمی,B,generic
+IR-RICE-022,کته,B,generic
+IR-RICE-023,چلوکباب کوبیده,A,dedicated
+IR-KABAB-001,کباب کوبیده,A,dedicated
+IR-KABAB-002,کباب برگ,A,dedicated
+IR-KABAB-003,کباب سلطانی,A,dedicated
+IR-KABAB-004,جوجه کباب,A,dedicated
+IR-KABAB-005,کباب بختیاری,A,dedicated
+IR-KABAB-006,کباب لقمه,B,generic
+IR-KABAB-007,کباب ترش,B,dedicated
+IR-KABAB-008,کباب چنجه,B,generic
+IR-KABAB-009,شیشلیک,B,dedicated
+IR-KABAB-010,کباب دنده,B,generic
+IR-KABAB-011,کباب ماهی,C,generic
+IR-KABAB-012,کباب مرغ,B,generic
+IR-KABAB-013,کباب دل و جگر,B,generic
+IR-KABAB-014,کباب مخلوط,B,generic
+IR-KABAB-015,کباب زعفرانی,C,generic
+IR-ASH-001,آش رشته,A,dedicated
+IR-ASH-002,آش دوغ,B,dedicated
+IR-ASH-003,آش شله قلمکار,B,dedicated
+IR-ASH-004,آش کشک,B,generic
+IR-ASH-005,آش جو,A,dedicated
+IR-ASH-006,آش ماش,B,generic
+IR-ASH-007,آش عدس,B,generic
+IR-ASH-009,آش گندم,C,generic
+IR-ASH-010,آش کلم,C,generic
+IR-ASH-011,آش ترخینه,B,dedicated
+IR-ASH-012,آش خیار,C,generic
+IR-ASH-013,آش سماق,C,generic
+IR-ASH-014,آش آلو,C,generic
+IR-ASH-015,آش میوه,C,generic
+IR-ASH-016,آش انار,C,generic
+IR-SOUP-001,سوپ جو,B,generic
+IR-SOUP-002,سوپ مرغ,B,generic
+IR-SOUP-003,سوپ سبزیجات,B,generic
+IR-SOUP-004,سوپ عدس,B,generic
+IR-SOUP-005,سوپ قارچ,B,generic
+IR-SOUP-006,سوپ گوجه,B,generic
+IR-SOUP-007,سوپ کلم,C,generic
+IR-SOUP-008,سوپ ذرت,B,generic
+IR-SOUP-009,سوپ نخود,C,generic
+IR-NANI-001,نان و پنیر,A,dedicated
+IR-NANI-002,نان و پنیر و گردو,A,dedicated
+IR-NANI-003,نان و پنیر و سبزی,A,dedicated
+IR-NANI-004,نان و کره,A,generic
+IR-NANI-005,نان و عسل,A,generic
+IR-NANI-006,نان و مربا,A,generic
+IR-NANI-007,نان و پنیر و خیار,A,generic
+IR-NANI-008,نان و پنیر و گوجه,A,generic
+IR-NANI-009,نان و پنیر و هندوانه,B,generic
+IR-NANI-010,نان و پنیر و انگور,B,generic
+IR-NANI-011,نان و تخم مرغ,A,generic
+IR-NANI-012,نان و املت,A,generic
+IR-NANI-013,نان و کوکو,B,generic
+IR-NANI-014,نان و حلیم,B,generic
+IR-NANI-015,نان و ماست,B,generic
+IR-NANI-016,نان و ماست و پنیر,B,generic
+IR-NANI-017,نان و خرما,B,generic
+IR-NANI-018,نان و پنیر و خرما,B,generic
+IR-NANI-019,نان و حلوا,C,generic
+IR-NANI-020,نان و سیب زمینی,B,generic
+IR-NANI-021,ارده و شیره,A,dedicated
+IR-NANI-022,کره و عسل,A,generic
+IR-COMP-001,ماست و خیار,A,generic
+IR-COMP-002,ماست و موسیر,B,generic
+IR-COMP-003,پنیر و خرما,B,generic
+IR-BREAKFAST-001,املت,A,dedicated
+IR-BREAKFAST-002,کوکو سبزی,A,dedicated
+IR-BREAKFAST-003,کوکو سیب زمینی,A,dedicated
+IR-BREAKFAST-004,کوکو مرغ,B,generic
+IR-BREAKFAST-005,کوکو گوشت,B,generic
+IR-BREAKFAST-006,نیمرو,A,generic
+IR-BREAKFAST-007,تخم مرغ آب پز,A,generic
+IR-BREAKFAST-008,عسلی,B,generic
+IR-BREAKFAST-009,پنیر و گردو,A,generic
+IR-BREAKFAST-010,خامه و عسل,B,generic
+IR-BREAKFAST-011,شیر و عسل,B,generic
+IR-BREAKFAST-012,شیر و خرما,A,generic
+IR-BREAKFAST-013,عدسی,A,dedicated
+IR-BREAKFAST-014,لوبیا چیتی,B,generic
+IR-BREAKFAST-015,کله پاچه,B,dedicated
+IR-BREAKFAST-016,حلیم,A,dedicated
+IR-BREAKFAST-018,سوسیس تخم مرغ,B,generic
+IR-MEAL-001,آبگوشت,A,dedicated
+IR-MEAL-002,آبگوشت بزباش,B,dedicated
+IR-MEAL-003,دیزی,A,dedicated
+IR-MEAL-004,دلمه برگ مو,B,dedicated
+IR-MEAL-005,دلمه کلم,B,generic
+IR-MEAL-006,دلمه فلفل,B,generic
+IR-MEAL-007,کوفته تبریزی,B,dedicated
+IR-MEAL-008,شامی,B,generic
+IR-MEAL-009,شامی کباب,B,generic
+IR-MEAL-010,کتلت گوشت,A,dedicated
+IR-MEAL-011,کتلت مرغ,B,generic
+IR-MEAL-012,کتلت سیب زمینی,B,generic
+IR-MEAL-013,میرزا قاسمی,B,dedicated
+IR-MEAL-014,بادمجان شکم پر,B,generic
+IR-MEAL-015,فلفل دلمه شکم پر,B,generic
+IR-MEAL-016,قیمه نثار,B,dedicated
+IR-MEAL-017,ترش تره,B,dedicated
+IR-MEAL-018,باقلاقاتق,B,dedicated
+IR-MEAL-019,اناربیج,C,generic
+IR-MEAL-020,تاس کباب,B,dedicated
+IR-MEAL-021,خورش خالو,C,generic
+IR-MEAL-022,حلیم بادمجان,B,dedicated
+IR-MEAL-023,ماهی سفید شکم پر,B,dedicated
+IR-MEAL-024,زیتون پرورده,B,dedicated
+IR-MEAL-025,رشته خشکار,C,generic
+IR-MEAL-026,کباب ترش گیلانی,B,generic
+IR-MEAL-027,میرزاقاسمی با تن,C,generic
+IR-MEAL-028,باقلا پلو گیلانی,C,generic
+IR-BREAD-001,نان سنگک,A,dedicated
+IR-BREAD-002,نان بربری,A,dedicated
+IR-BREAD-003,نان لواش,A,dedicated
+IR-BREAD-004,نان تافتون,A,dedicated
+IR-BREAD-005,نان باگت,B,dedicated
+IR-BREAD-006,نان تست,A,dedicated
+IR-BREAD-007,نان همبرگری,A,dedicated
+IR-BREAD-008,نان پیتا,B,generic
+IR-BREAD-009,نان تورتلا,B,generic
+IR-BREAD-010,نان بربری کنجدی,B,generic
+IR-BREAD-011,نان شیرمال,B,dedicated
+IR-BREAD-012,نان شیر,B,generic
+IR-BREAD-013,نان خرمایی,C,generic
+IR-BREAD-014,نان سبوس دار,B,generic
+IR-BREAD-015,نان جو,B,generic
+IR-BREAD-016,نان چاپاتی,C,generic
+IR-BREAD-017,نان تردک,C,generic
+IR-MEAT-001,گوشت گوسفندی,A,generic
+IR-MEAT-002,گوشت گاو,A,generic
+IR-MEAT-003,گوشت چرخ کرده,A,generic
+IR-MEAT-004,استیک گوسفندی,B,generic
+IR-MEAT-005,استیک گاو,B,generic
+IR-MEAT-006,ماهیچه,B,generic
+IR-MEAT-007,زبان گوسفند,B,generic
+IR-MEAT-008,جگر گوسفند,B,generic
+IR-MEAT-009,دل و قلوه,B,generic
+IR-MEAT-010,سوسیس گوشت,B,generic
+IR-MEAT-011,کالباس گوشت,B,generic
+IR-MEAT-012,گوشت همبرگری,B,generic
+IR-POULTRY-001,مرغ,A,generic
+IR-POULTRY-002,سینه مرغ,A,generic
+IR-POULTRY-003,ران مرغ,A,generic
+IR-POULTRY-004,بال مرغ,B,generic
+IR-POULTRY-006,مرغ سوخاری,A,dedicated
+IR-POULTRY-007,مرغ بریان,B,dedicated
+IR-POULTRY-008,مرغ شکم پر,B,generic
+IR-POULTRY-009,بوقلمون,B,generic
+IR-POULTRY-010,سینه بوقلمون,B,generic
+IR-POULTRY-011,شنیسل مرغ,A,dedicated
+IR-POULTRY-012,ناگت مرغ,B,generic
+IR-FISH-001,ماهی سفید,A,generic
+IR-FISH-002,ماهی قزل آلا,A,generic
+IR-FISH-003,ماهی کیلکا,B,generic
+IR-FISH-004,ماهی حلوا,B,generic
+IR-FISH-005,ماهی شیر,C,generic
+IR-FISH-006,ماهی تن,A,generic
+IR-FISH-007,ماهی سالمون,B,generic
+IR-FISH-008,میگو,A,generic
+IR-FISH-009,خرچنگ,C,generic
+IR-FISH-010,ماهی دودی,B,generic
+IR-FISH-011,ماهی سرخ شده,A,generic
+IR-FISH-012,میگو سوخاری,B,generic
+IR-EGG-001,تخم مرغ,A,generic
+IR-EGG-002,زرده تخم مرغ,B,generic
+IR-EGG-003,سفیده تخم مرغ,B,generic
+IR-EGG-004,تخم مرغ عسلی,B,generic
+IR-EGG-007,املت قارچ,B,generic
+IR-EGG-008,املت پنیر,B,generic
+IR-LEGUME-001,لوبیا قرمز,A,generic
+IR-LEGUME-002,لوبیا چیتی,A,generic
+IR-LEGUME-003,لوبیا سبز,B,generic
+IR-LEGUME-004,لوبیا چشم بلبلی,B,generic
+IR-LEGUME-005,نخود,A,generic
+IR-LEGUME-006,نخودچی,B,generic
+IR-LEGUME-007,عدس,A,generic
+IR-LEGUME-008,لپه,A,generic
+IR-LEGUME-009,ماش,B,generic
+IR-LEGUME-010,باقلا,A,generic
+IR-LEGUME-011,باقلا خشک,B,generic
+IR-LEGUME-012,سویا,B,generic
+IR-LEGUME-013,نخود سبز,B,generic
+IR-GRAIN-001,برنج سفید,A,generic
+IR-GRAIN-002,برنج قهوه ای,B,generic
+IR-GRAIN-003,برنج دم سیاه,B,generic
+IR-GRAIN-004,برنج طارم,A,generic
+IR-GRAIN-005,برنج صدری,B,generic
+IR-GRAIN-006,گندم,B,generic
+IR-GRAIN-007,جو,B,generic
+IR-GRAIN-008,جو پرک,B,generic
+IR-GRAIN-009,بلغور,B,generic
+IR-GRAIN-010,رشته آشی,B,generic
+IR-GRAIN-011,رشته پلویی,B,generic
+IR-GRAIN-012,ماکارونی,A,generic
+IR-GRAIN-013,اسپاگتی,A,generic
+IR-GRAIN-014,پنه,B,generic
+IR-GRAIN-015,فارفاله,C,generic
+IR-GRAIN-016,لازانیا,B,generic
+IR-GRAIN-017,جو دوسر,A,generic
+IR-GRAIN-018,کینوا,B,generic
+IR-GRAIN-019,آرد گندم,A,generic
+IR-GRAIN-020,آرد برنج,B,generic
+IR-VEG-001,سیب زمینی,A,generic
+IR-VEG-002,پیاز,A,generic
+IR-VEG-003,سیر,A,generic
+IR-VEG-004,هویج,A,generic
+IR-VEG-005,گوجه فرنگی,A,generic
+IR-VEG-006,خیار,A,generic
+IR-VEG-007,خیارشور,B,generic
+IR-VEG-008,بادمجان,A,generic
+IR-VEG-009,کدو سبز,B,generic
+IR-VEG-010,کدو حلوایی,B,generic
+IR-VEG-011,فلفل دلمه,A,generic
+IR-VEG-012,فلفل تند,B,generic
+IR-VEG-013,کلم,B,generic
+IR-VEG-014,کلم بروکلی,B,generic
+IR-VEG-015,کلم پیچ,B,generic
+IR-VEG-016,کاهو,A,generic
+IR-VEG-017,اسفناج,A,generic
+IR-VEG-018,سبزی خوردن,A,generic
+IR-VEG-019,جعفری,B,generic
+IR-VEG-020,ریحان,B,generic
+IR-VEG-021,نعنا,B,generic
+IR-VEG-022,تره,B,generic
+IR-VEG-023,شوید,B,generic
+IR-VEG-024,گشنیز,B,generic
+IR-VEG-025,قارچ,A,generic
+IR-VEG-026,ذرت,A,generic
+IR-VEG-027,نخود فرنگی,B,generic
+IR-VEG-029,چغندر,B,generic
+IR-VEG-030,شلغم,B,generic
+IR-VEG-031,ترب,C,generic
+IR-VEG-032,تربچه,B,generic
+IR-VEG-033,کرفس,B,generic
+IR-VEG-034,مارچوبه,C,generic
+IR-VEG-035,بامیه,B,generic
+IR-VEG-036,بادمجان سرخ شده,B,generic
+IR-VEG-037,زیتون سبز,B,generic
+IR-VEG-038,زیتون سیاه,B,generic
+IR-VEG-039,جوانه یونجه,B,generic
+IR-VEG-040,ریواس,C,generic
+IR-FRUIT-001,سیب,A,generic
+IR-FRUIT-002,پرتقال,A,generic
+IR-FRUIT-003,نارنگی,A,generic
+IR-FRUIT-004,لیمو ترش,A,generic
+IR-FRUIT-005,لیمو شیرین,B,generic
+IR-FRUIT-006,گریپ فروت,B,generic
+IR-FRUIT-007,موز,A,generic
+IR-FRUIT-008,انگور,A,generic
+IR-FRUIT-009,هندوانه,A,generic
+IR-FRUIT-010,طالبی,A,generic
+IR-FRUIT-011,خربزه,A,generic
+IR-FRUIT-012,توت فرنگی,A,generic
+IR-FRUIT-013,گیلاس,A,generic
+IR-FRUIT-014,آلبالو,A,generic
+IR-FRUIT-015,هلو,A,generic
+IR-FRUIT-016,شلیل,B,generic
+IR-FRUIT-017,زردآلو,A,generic
+IR-FRUIT-018,آلو,A,generic
+IR-FRUIT-019,آلو بخارا,B,generic
+IR-FRUIT-020,گلابی,A,generic
+IR-FRUIT-021,به,B,generic
+IR-FRUIT-022,انار,A,generic
+IR-FRUIT-023,خرمالو,B,generic
+IR-FRUIT-024,انجیر,A,generic
+IR-FRUIT-025,کیوی,A,generic
+IR-FRUIT-026,آناناس,B,generic
+IR-FRUIT-027,انبه,B,generic
+IR-FRUIT-028,نارگیل,B,generic
+IR-FRUIT-029,توت سفید,B,generic
+IR-FRUIT-030,شاتوت,B,generic
+IR-FRUIT-031,بلوبری,B,generic
+IR-FRUIT-032,تمشک,B,generic
+IR-FRUIT-033,ازگیل,C,generic
+IR-FRUIT-034,زالزالک,C,generic
+IR-FRUIT-035,عناب,B,generic
+IR-FRUIT-036,کنار,C,generic
+IR-FRUIT-037,خرما,A,generic
+IR-FRUIT-039,کیوی طلایی,C,generic
+IR-DAIRY-001,شیر,A,generic
+IR-DAIRY-002,ماست,A,generic
+IR-DAIRY-003,ماست چکیده,A,generic
+IR-DAIRY-004,ماست یونانی,B,generic
+IR-DAIRY-005,پنیر سفید,A,generic
+IR-DAIRY-006,پنیر لیقوان,A,generic
+IR-DAIRY-007,پنیر پیتزا,B,generic
+IR-DAIRY-008,پنیر خامه ای,B,generic
+IR-DAIRY-009,پنیر فتا,B,generic
+IR-DAIRY-010,پنیر پارمزان,B,generic
+IR-DAIRY-011,کره,A,generic
+IR-DAIRY-012,خامه,A,generic
+IR-DAIRY-013,سرشیر,B,generic
+IR-DAIRY-014,دوغ,A,dedicated
+IR-DAIRY-015,کشک,B,generic
+IR-DAIRY-016,شیر پر چرب,B,generic
+IR-DAIRY-017,شیر کم چرب,B,generic
+IR-DAIRY-018,شیر خشک,B,generic
+IR-DAIRY-019,شیر غنی شده,B,generic
+IR-DAIRY-020,بستنی,A,dedicated
+IR-NUT-001,گردو,A,generic
+IR-NUT-002,بادام,A,generic
+IR-NUT-003,بادام زمینی,A,generic
+IR-NUT-004,پسته,A,generic
+IR-NUT-005,فندق,A,generic
+IR-NUT-006,بادام هندی,B,generic
+IR-NUT-007,کنجد,B,generic
+IR-NUT-008,تخمه آفتابگردان,B,generic
+IR-NUT-009,تخمه کدو,B,generic
+IR-NUT-010,تخمه هندوانه,C,generic
+IR-NUT-011,چیا,B,generic
+IR-NUT-012,کتان,B,generic
+IR-NUT-013,شاهدانه,C,generic
+IR-NUT-014,ارده,B,generic
+IR-NUT-015,کره بادام زمینی,B,generic
+IR-NUT-016,کره بادام,C,generic
+IR-NUT-017,پسته کوهی,C,generic
+IR-NUT-018,بلوط,C,generic
+IR-DRIED-001,کشمش,A,generic
+IR-DRIED-002,توت خشک,A,generic
+IR-DRIED-003,انجیر خشک,A,generic
+IR-DRIED-004,خرمای خشک,B,generic
+IR-DRIED-005,آلو خشک,B,generic
+IR-DRIED-006,زردآلو خشک,A,generic
+IR-DRIED-007,هلو خشک,C,generic
+IR-DRIED-008,سیب خشک,B,generic
+IR-DRIED-009,انگور خشک,B,generic
+IR-DRIED-010,توت سفید خشک,B,generic
+IR-DRIED-011,آلبالو خشک,B,generic
+IR-DRIED-012,گیلاس خشک,C,generic
+IR-DRIED-013,کیوی خشک,C,generic
+IR-DRIED-014,آناناس خشک,C,generic
+IR-DRIED-015,انبه خشک,C,generic
+IR-DRIED-016,پرتقال خشک,C,generic
+IR-SNACK-001,چیپس سیب زمینی,B,dedicated
+IR-SNACK-002,پفک,B,dedicated
+IR-SNACK-003,اسنک,B,generic
+IR-SNACK-004,کراکر,B,generic
+IR-SNACK-005,بیسکویت ساده,A,generic
+IR-SNACK-006,بیسکویت کرمدار,A,generic
+IR-SNACK-007,ویفر,B,generic
+IR-SNACK-008,شکلات تخته ای,A,dedicated
+IR-SNACK-009,شکلات صبحانه,B,generic
+IR-SNACK-010,نوتلا,B,dedicated
+IR-SNACK-011,ذرت بوداده,B,dedicated
+IR-SNACK-012,آجیل مخلوط,A,dedicated
+IR-SNACK-013,نخودچی,B,generic
+IR-SNACK-014,تخمه ژاپنی,B,generic
+IR-SNACK-015,لواشک,B,dedicated
+IR-SNACK-016,ترشک,B,generic
+IR-SNACK-017,آلوچه,B,generic
+IR-DRINK-001,آب,A,generic
+IR-DRINK-002,چای,A,dedicated
+IR-DRINK-003,چای سبز,A,dedicated
+IR-DRINK-005,دمنوش نعنا,B,generic
+IR-DRINK-006,دمنوش بابونه,B,generic
+IR-DRINK-007,دمنوش گل گاوزبان,B,generic
+IR-DRINK-008,دمنوش بهارنارنج,B,generic
+IR-DRINK-009,دمنوش دارچین,B,generic
+IR-DRINK-010,قهوه,A,dedicated
+IR-DRINK-011,اسپرسو,A,dedicated
+IR-DRINK-012,کاپوچینو,A,dedicated
+IR-DRINK-013,لاته,A,dedicated
+IR-DRINK-014,آمریکانو,B,generic
+IR-DRINK-015,شیرکاکائو,B,generic
+IR-DRINK-016,شیر موز,B,generic
+IR-DRINK-017,شیر توت فرنگی,B,generic
+IR-DRINK-018,آب پرتقال,A,dedicated
+IR-DRINK-019,آب سیب,A,dedicated
+IR-DRINK-020,آب هویج,B,generic
+IR-DRINK-021,آب انار,A,dedicated
+IR-DRINK-022,آب انگور,B,generic
+IR-DRINK-023,آب لیمو,B,generic
+IR-DRINK-024,آب آلبالو,B,generic
+IR-DRINK-025,شربت آلبالو,B,generic
+IR-DRINK-026,شربت سکنجبین,B,dedicated
+IR-DRINK-027,شربت بیدمشک,B,generic
+IR-DRINK-028,شربت بهارنارنج,B,generic
+IR-DRINK-029,شربت زعفران,B,generic
+IR-DRINK-030,شربت خاکشیر,B,generic
+IR-DRINK-031,شربت تخم شربتی,B,generic
+IR-DRINK-032,لیموناد,B,generic
+IR-DRINK-033,نوشابه,B,generic
+IR-DRINK-034,نوشابه رژیمی,B,generic
+IR-DRINK-035,ماءالشعیر,B,generic
+IR-DRINK-036,دوغ گازدار,B,generic
+IR-DRINK-038,آب معدنی,A,generic
+IR-DRINK-039,آب نارگیل,B,generic
+IR-DRINK-040,اسموتی,B,generic
+IR-DESSERT-001,شله زرد,A,dedicated
+IR-DESSERT-002,فرنی,A,dedicated
+IR-DESSERT-003,حلوا,A,dedicated
+IR-DESSERT-004,حلوا ارده,B,generic
+IR-DESSERT-005,حلوا شکری,B,generic
+IR-DESSERT-006,بستنی سنتی,A,dedicated
+IR-DESSERT-007,بستنی وانیلی,A,dedicated
+IR-DESSERT-008,بستنی شکلاتی,A,dedicated
+IR-DESSERT-009,فالوده,A,dedicated
+IR-DESSERT-010,کرم کارامل,B,generic
+IR-DESSERT-011,پودینگ,B,generic
+IR-DESSERT-012,ژله,A,dedicated
+IR-DESSERT-013,موس شکلاتی,B,generic
+IR-DESSERT-014,تیرامیسو,B,dedicated
+IR-DESSERT-015,چیزکیک,B,dedicated
+IR-DESSERT-016,کیک شکلاتی,A,dedicated
+IR-DESSERT-017,کیک وانیلی,A,generic
+IR-DESSERT-018,کیک هویج,B,generic
+IR-DESSERT-019,کیک میوه,B,generic
+IR-DESSERT-020,کیک پنیر,B,generic
+IR-DESSERT-021,شیرینی دانمارکی,B,generic
+IR-DESSERT-022,کروسان,B,generic
+IR-DESSERT-023,دونات,B,dedicated
+IR-DESSERT-024,مافین,B,generic
+IR-DESSERT-025,براونی,B,generic
+IR-SWEET-001,گزانگبین,C,generic
+IR-SWEET-002,نبات,B,generic
+IR-SWEET-003,شکر پنیر,B,generic
+IR-SWEET-004,پولکی,B,generic
+IR-SWEET-005,سوهان,A,dedicated
+IR-SWEET-006,سوهان عسلی,B,generic
+IR-SWEET-007,گز,A,dedicated
+IR-SWEET-009,باقلوا,A,dedicated
+IR-SWEET-010,باقلوا تبریزی,B,generic
+IR-SWEET-011,زولبیا,A,dedicated
+IR-SWEET-012,بامیه شیرینی,A,dedicated
+IR-SWEET-013,پشمک,B,dedicated
+IR-SWEET-014,نوقا,B,generic
+IR-SWEET-015,شیرینی نخودچی,B,generic
+IR-SWEET-016,شیرینی برنجی,B,generic
+IR-SWEET-017,شیرینی دانمارکی شکلاتی,B,generic
+IR-SWEET-018,شیرینی زبان,B,generic
+IR-SWEET-019,شیرینی کشمشی,B,generic
+IR-SWEET-020,شیرینی نارگیلی,B,generic
+IR-FASTFOOD-001,همبرگر,A,dedicated
+IR-FASTFOOD-002,چیزبرگر,A,dedicated
+IR-FASTFOOD-003,دبل برگر,A,dedicated
+IR-FASTFOOD-004,مرغ برگر,B,generic
+IR-FASTFOOD-005,قارچ برگر,B,generic
+IR-FASTFOOD-006,پیتزا مخلوط,A,dedicated
+IR-FASTFOOD-007,پیتزا مخصوص,A,dedicated
+IR-FASTFOOD-008,پیتزا گوشت,A,dedicated
+IR-FASTFOOD-009,پیتزا مرغ,A,dedicated
+IR-FASTFOOD-010,پیتزا سبزیجات,A,dedicated
+IR-FASTFOOD-011,پیتزا آمریکایی,B,generic
+IR-FASTFOOD-012,پیتزا ایتالیایی,B,generic
+IR-FASTFOOD-013,پیتزا پپرونی,B,generic
+IR-FASTFOOD-014,پیتزا مارگاریتا,B,generic
+IR-FASTFOOD-015,پیتزا سی بست,B,generic
+IR-FASTFOOD-016,پیتزا رست بیف,C,generic
+IR-FASTFOOD-017,ساندویچ مرغ,A,dedicated
+IR-FASTFOOD-018,ساندویچ ژامبون,A,dedicated
+IR-FASTFOOD-019,ساندویچ سوسیس,A,dedicated
+IR-FASTFOOD-020,ساندویچ کالباس,A,dedicated
+IR-FASTFOOD-021,ساندویچ فلافل,B,dedicated
+IR-FASTFOOD-022,ساندویچ شنیسل,B,generic
+IR-FASTFOOD-023,شاورما,A,dedicated
+IR-FASTFOOD-024,دنر,B,dedicated
+IR-FASTFOOD-025,هات داگ,A,dedicated
+IR-FASTFOOD-026,فلافل,A,dedicated
+IR-FASTFOOD-027,سیب زمینی سرخ کرده,A,dedicated
+IR-FASTFOOD-028,پیاز حلقه ای,B,generic
+IR-FASTFOOD-029,بال سوخاری,B,generic
+IR-FASTFOOD-030,ناگت سوخاری,B,generic
+IR-INTL-001,ماکارونی با سس گوشت,A,dedicated
+IR-INTL-002,اسپاگتی بولونز,B,dedicated
+IR-INTL-003,اسپاگتی کاربونارا,B,dedicated
+IR-INTL-004,لازانیا,A,dedicated
+IR-INTL-005,فتوچینی آلفردو,B,generic
+IR-INTL-006,پنه آربیتا,C,generic
+IR-INTL-007,ریزوتو,B,dedicated
+IR-INTL-008,پائیا,C,generic
+IR-INTL-009,سوشی,B,dedicated
+IR-INTL-010,رامن,B,generic
+IR-INTL-011,نودل سوخاری,B,generic
+IR-INTL-012,مرغ کنتاکی,B,dedicated
+IR-INTL-013,استیک پپر,B,generic
+IR-INTL-014,فیله مرغ گریل,B,generic
+IR-INTL-015,سالاد سزار,B,dedicated
+IR-INTL-016,سالاد یونانی,B,dedicated
+IR-INTL-017,سالاد فصل,A,dedicated
+IR-INTL-018,سالاد الویه,A,dedicated
+IR-INTL-019,سالاد ماکارونی,B,generic
+IR-INTL-020,سالاد کلم,B,generic
+IR-INTL-021,سوپ پیاز,B,generic
+IR-INTL-022,سوپ کدو حلوایی,B,generic
+IR-INTL-023,کباب ترکی,B,generic
+IR-INTL-026,هوموس,B,dedicated
+IR-INTL-027,تبوله,B,generic
+IR-INTL-028,کباب ترکی مرغ,B,generic
+IR-INTL-029,چیکن کری,B,dedicated
+IR-INTL-030,بریانی,B,generic
+IR-INTL-031,کباب هندی,C,generic
+IR-INTL-032,پد تای,C,generic
+IR-INTL-033,بهارات,C,generic
+IR-INTL-034,تاکو,B,generic
+IR-INTL-035,بوریتو,B,generic
+IR-INTL-036,کاسادیا,C,generic
+IR-INTL-037,ناچو,B,generic
+IR-INTL-038,گواکاموله,B,generic
+IR-INTL-039,سالسا,B,generic
+IR-INTL-040,کرپ,B,dedicated
+IR-INTL-041,وافل,B,dedicated
+IR-INTL-042,پنکیک,B,dedicated
+IR-INTL-043,فرنچ تست,B,generic
+IR-INTL-044,املت فرانسوی,B,generic
+IR-INTL-045,بندیکت,C,generic
+IR-INTL-046,چیز استیک,B,generic
+IR-INTL-047,کلاب ساندویچ,B,generic
+IR-INTL-048,بلتا,B,generic
+IR-INTL-049,فیش اند چیپس,B,generic
+IR-INTL-050,پای گوشت,C,generic
+IR-SAUCE-001,سس مایونز,A,generic
+IR-SAUCE-002,سس کچاپ,A,generic
+IR-SAUCE-003,سس خردل,B,generic
+IR-SAUCE-004,سس هزار جزیره,B,generic
+IR-SAUCE-005,سس سزار,B,generic
+IR-SAUCE-006,سس رنچ,B,generic
+IR-SAUCE-007,سس تارتار,B,generic
+IR-SAUCE-008,سس باربیکیو,B,generic
+IR-SAUCE-009,سس سویا,B,generic
+IR-SAUCE-010,سس گوجه,A,generic
+IR-SAUCE-011,سس آلفردو,B,generic
+IR-SAUCE-012,سس بشامل,B,generic
+IR-SAUCE-013,سس پستو,B,generic
+IR-SAUCE-014,سس هولندیز,C,generic
+IR-SAUCE-015,سس سرکه سیب,B,generic
+IR-SAUCE-016,سس انار,B,generic
+IR-SAUCE-017,رب گوجه,A,generic
+IR-SAUCE-018,رب انار,A,generic
+IR-SAUCE-019,سرکه,A,generic
+IR-SAUCE-020,آبلیمو,A,generic
+IR-SAUCE-021,لیمو عمانی,A,generic
+IR-SAUCE-022,زعفران,A,generic
+IR-SAUCE-023,زردچوبه,A,generic
+IR-SAUCE-024,دارچین,A,generic
+IR-SAUCE-025,فلفل سیاه,A,generic
+IR-SAUCE-026,فلفل قرمز,A,generic
+IR-SAUCE-027,سماق,A,generic
+IR-SAUCE-028,آویشن,A,generic
+IR-SAUCE-029,پودر سیر,B,generic
+IR-SAUCE-030,پودر پیاز,B,generic
+IR-SAUCE-031,ادویه پلویی,B,generic
+IR-SAUCE-032,ادویه کباب,B,generic
+IR-SAUCE-033,ادویه مرغ,B,generic
+IR-SAUCE-034,هل,B,generic
+IR-SAUCE-035,زنجبیل,B,generic
+IR-BASIC-001,روغن مایع,A,generic
+IR-BASIC-002,روغن زیتون,A,generic
+IR-BASIC-003,روغن کنجد,B,generic
+IR-BASIC-004,روغن حیوانی,B,generic
+IR-BASIC-005,روغن نارگیل,B,generic
+IR-BASIC-006,کره گیاهی,A,generic
+IR-BASIC-007,نمک,A,generic
+IR-BASIC-008,شکر,A,generic
+IR-BASIC-009,عسل,A,generic
+IR-BASIC-010,شیره انگور,A,generic
+IR-BASIC-011,شیره خرما,B,generic
+IR-BASIC-012,مربا آلبالو,A,generic
+IR-BASIC-013,مربا توت فرنگی,A,generic
+IR-BASIC-014,مربا هویج,B,generic
+IR-BASIC-015,مربا بالنگ,B,generic
+IR-BASIC-016,مربا گل محمدی,B,generic
+IR-BASIC-017,ترشی خیار,B,generic
+IR-BASIC-018,ترشی مخلوط,A,generic
+IR-BASIC-019,ترشی سیر,B,generic
+IR-BASIC-020,ترشی بادمجان,B,generic
+IR-BASIC-021,ترشی لیته,C,generic
+IR-BASIC-022,خمیر پیتزا,B,generic
+IR-BASIC-023,خمیر یوفکا,B,generic
+IR-BASIC-024,خمیر هزارلا,B,generic
+IR-BASIC-025,پودر سوخاری,B,generic
+IR-BASIC-026,کاکائو,B,generic
+IR-BASIC-027,ژلاتین,B,generic
+IR-BASIC-028,خمیرمایه,B,generic
+IR-BASIC-029,بیکینگ پودر,B,generic
+IR-BASIC-030,گلاب,B,generic

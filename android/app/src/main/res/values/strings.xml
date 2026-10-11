@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Zendegito: Noskhe</string>
+    <string name="title_activity_main">Zendegito: Noskhe</string>
+    <string name="package_name">ir.zendegito.noskhe</string>
+    <string name="custom_url_scheme">ir.zendegito.noskhe</string>
+</resources>
